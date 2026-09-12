@@ -1,0 +1,26 @@
+img {
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+body {
+  background-color: #E7ACCF;
+  font-family: "Courier New", monospace;
+  color: black;
+  text-align: center;
+}
+
+a {
+  background-color: #FF6EC7;
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue;
+  font-weight: bold;
+}
